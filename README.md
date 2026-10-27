@@ -4,8 +4,8 @@ Examen Programación 2
 
 **Integrantes**
 
-- Eduar Andres Renteria Balverde
-- Juan Felipe Bustamante Caicedo
+- andres contreras
+- victor palacios
 
 **Grupo 411**
 
